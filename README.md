@@ -1,2 +1,2 @@
 # machinelearning_bootcamp_igti
-Machine Learning Bootcamp @ IGTI
+Machine Learning Bootcamp @ IGTI (June/2020)
