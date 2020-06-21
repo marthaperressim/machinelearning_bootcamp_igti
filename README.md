@@ -1,5 +1,5 @@
 # Machine Learning Bootcamp @ IGTI (2020)
-Module tasks and final assignments.
+Modules tasks and final assignments.
 Total Workload: 148 hours.
 
 
